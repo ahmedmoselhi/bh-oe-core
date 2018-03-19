@@ -1,0 +1,9 @@
+require libgles.inc
+
+COMPATIBLE_MACHINE = "^(vusolose)$"
+
+SRCDATE = "20180220"
+SRCDATE_PR = "r0"
+
+SRC_URI[md5sum] = "5608f68dc3518352941a164ba1f511c1"
+SRC_URI[sha256sum] = "23ce42dfa69c85429b22072d1f877da860f6f8467ac7a78b9776ffe5c4279a0d"
